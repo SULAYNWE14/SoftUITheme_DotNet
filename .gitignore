@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SoftUITheme_Dotnet/bin
+/SoftUITheme_Dotnet/obj
+/SoftUITheme_Dotnet/SoftUITheme_Dotnet.csproj.user
